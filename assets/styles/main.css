@@ -213,41 +213,6 @@
     fill: #000000;
 }
 
-.button-74 {
-    background-color: #fbeee0;
-    border: 1px solid #422800;
-    border-radius: 1.25rem;
-    box-shadow: #422800 0.125rem 0.125rem 0 0;
-    color: #422800;
-    cursor: pointer;
-    display: inline-block;
-    font-weight: 600;
-    font-size: 0.75rem;
-    padding: 0 0.5rem;
-    line-height: 1.56rem;
-    text-align: center;
-    text-decoration: none;
-    user-select: none;
-    -webkit-user-select: none;
-    touch-action: manipulation;
-}
-
-.button-74:hover {
-    background-color: #fff;
-}
-
-.button-74:active {
-    box-shadow: #422800 2px 2px 0 0;
-    transform: translate(2px, 2px);
-}
-
-@media (min-width: 768px) {
-    .button-74 {
-        min-width: 120px;
-        padding: 0 25px;
-    }
-}
-
 .details {
     display: flex;
     position: absolute;

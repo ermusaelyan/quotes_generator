@@ -150,3 +150,12 @@ function deleteCategory(index) {
     updateHistory();
 }
 
+document.addEventListener('DOMContentLoaded', () => {
+    const toggleButton = document.getElementById('detailsToggler');
+    const details = document.getElementById('details');
+
+    toggleButton.addEventListener('click', () => {
+        details.classList.toggle('open');
+    });
+});
+
