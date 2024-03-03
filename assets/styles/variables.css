@@ -1,0 +1,19 @@
+:root {
+  --color-text: rgb(255, 255, 255);
+  --color-text1: rgb(244, 241, 245);
+  --color-text2: rgb(165, 158, 172);
+  --color-text3: rgb(207, 207, 207);
+  --color-text4: rgb(209, 193, 227);
+  --color-text5: rgb(185, 173, 196);
+  --color-text6: rgb(255, 254, 255);
+  --color-temp: rgba(51, 33, 68, 0.5);
+  --color-cold: rgb(72, 170, 200);
+  --color-hot: rgb(197, 70, 74);
+  --color-td: rgb(207, 193, 215);
+  --color-title: rgb(218, 161, 83);
+  --color-border: rgb(160, 149, 170);
+  --color-count: rgb(237, 195, 138);
+  --color-active: rgb(238, 184, 108);
+  --color-black: rgb(0, 0, 0);
+}
+
